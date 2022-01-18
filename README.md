@@ -1,3 +1,5 @@
+Technical Portfolio: https://tylerb8.github.io
+
 - 👋 Hi, I’m Tyler Baguio
 - 👀 I’m currently a Junior Computer engineering student studying at the University of Hawaii at Manoa
 - 🌱 I’m currently learning everything! 
